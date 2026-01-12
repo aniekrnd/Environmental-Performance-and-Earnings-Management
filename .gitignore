@@ -1,0 +1,6 @@
+*Zone.Identifier*
+.Rhistory
+.ipynb_checkpoints/
+__pycache__/
+.RData
+.vscode/
